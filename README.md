@@ -9,7 +9,7 @@ This project implements a lane detection pipeline using OpenCV. It identifies la
 - Detecting edges using Canny edge detector
 - Defining a Region of Interest (ROI) to focus on the road area
 - Applying Hough Transform to detect straight lines
-- Visualizing detected lanes on the original image
+- Visualizing detected lanes 
 
 ## Features
 
